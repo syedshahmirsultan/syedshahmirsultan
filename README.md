@@ -10,9 +10,35 @@
 - ⚡ Fun fact **I love to play football and Table Tennis**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/syedshahmirsultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed shahmir sultan" height="60" width="120" /></a>
-<a href="https://www.youtube.com/@syedshahmirsultan2949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahmir codes" height="60" width="120" /></a>
+  <!-- LinkedIn Icon with elegant styling -->
+  <a href="https://www.linkedin.com/in/syedshahmirsultan/" target="blank">
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="Syed Shahmir Sultan LinkedIn" 
+      height="60" 
+      width="60" 
+      style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" 
+      onmouseover="this.style.transform='scale(1.1)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
+  <!-- YouTube Icon with elegant styling -->
+  <a href="https://www.youtube.com/@syedshahmirsultan2949" target="blank">
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
+      alt="Syed Shahmir Sultan YouTube" 
+      height="60" 
+      width="60" 
+      style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" 
+      onmouseover="this.style.transform='scale(1.1)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
 </p>
+
 <h3 align="left" style="font-size: 2rem; font-weight: bold; color: #333; margin-bottom: 20px;">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; padding: 0;">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
@@ -61,13 +87,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
-
-<!-- Add hover animation effect -->
-<style>
-  p a:hover img {
-    transform: scale(1.1);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-  }
-</style>
 
 
