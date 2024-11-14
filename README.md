@@ -10,34 +10,35 @@
 - ⚡ Fun fact **I love to play football and Table Tennis**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- LinkedIn Icon with elegant styling -->
+  <!-- LinkedIn Icon with enhanced styling -->
   <a href="https://www.linkedin.com/in/syedshahmirsultan/" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="Syed Shahmir Sultan LinkedIn" 
-      height="60" 
-      width="60" 
-      style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
+      height="40" 
+      width="40" 
+      style="border-radius: 50%; padding: 6px; background-color: #f0f0f0; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 6px 18px rgba(0, 0, 0, 0.15)'" 
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 12px rgba(0, 0, 0, 0.1)'"
     />
   </a>
 
-  <!-- YouTube Icon with elegant styling -->
+  <!-- YouTube Icon with enhanced styling -->
   <a href="https://www.youtube.com/@syedshahmirsultan2949" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
       alt="Syed Shahmir Sultan YouTube" 
-      height="60" 
-      width="60" 
-      style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
+      height="40" 
+      width="40" 
+      style="border-radius: 50%; padding: 6px; background-color: #f0f0f0; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);"
+      onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 6px 18px rgba(0, 0, 0, 0.15)'" 
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 12px rgba(0, 0, 0, 0.1)'"
     />
   </a>
 </p>
+
 
 <h3 align="left" style="font-size: 2rem; font-weight: bold; color: #333; margin-bottom: 20px;">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; padding: 0;">
