@@ -1,81 +1,73 @@
-# Hi, I'm Syed Shahmir Sultan 👋
+<h1 align="center">Hi 👋, I'm Syed Shahmir Sultan</h1>
+<h3 align="center">A Next.js Full-Stack Web Developer || AI Agent Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshahmirsultan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshahmirsultan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsultan" /></a> </p>
+- 🌱 I’m currently learning **AI Agent Development using LangGraph**
+- 👯 I’m looking to collaborate on **Next.js and AI projects**
+- 🤝 I’m looking for help with **Aritificial Intelligence**
+- 💬 Ask me about **Next.js,TypeScript ,Python**
+- 📫 How to reach me **syedshahmirsultan@gmail.com**
+- ⚡ Fun fact **I love to play football and Table Tennis**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/syedshahmirsultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed shahmir sultan" height="60" width="120" /></a>
+<a href="https://www.youtube.com/@syedshahmirsultan2949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahmir codes" height="60" width="120" /></a>
+</p>
+<h3 align="left" style="font-size: 2rem; font-weight: bold; color: #333; margin-bottom: 20px;">Languages and Tools:</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; padding: 0;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer" title="Framer">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+</p>
 
-Welcome to my GitHub! I'm a passionate full-stack developer with expertise in modern web technologies, backend frameworks, databases, and APIs. I love solving real-world problems with clean, efficient, and scalable code. 🚀
+<!-- Add hover animation effect -->
+<style>
+  p a:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+</style>
 
-## 🔧 Technologies I work with:
-
-### Frontend
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)  
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)  
-- ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)  
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=flat&logo=tailwindcss&logoColor=white)  
-
-### Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-68a063?style=flat&logo=node.js&logoColor=white)  
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-### Databases
-- ![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat&logo=postgresql&logoColor=white)  
-- ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-0099ff?style=flat&logo=graphql&logoColor=white)  
-- ![SQLModel](https://img.shields.io/badge/-SQLModel-5C7B2D?style=flat&logo=python&logoColor=white)  
-
-### Tools & Services
-- ![Stripe](https://img.shields.io/badge/-Stripe-6772E5?style=flat&logo=stripe&logoColor=white)  
-- ![Sanity](https://img.shields.io/badge/-Sanity-4F6B7A?style=flat&logo=sanity&logoColor=white)  
-- ![Poetry](https://img.shields.io/badge/-Poetry-45A1E6?style=flat&logo=python&logoColor=white)  
-- ![Kinde Auth](https://img.shields.io/badge/-Kinde%20Auth-F48C3E?style=flat&logo=kinde&logoColor=white)  
-- ![Gemini API](https://img.shields.io/badge/-Gemini%20API-ffbc00?style=flat&logo=github&logoColor=white)  
-- ![Clerk](https://img.shields.io/badge/-Clerk%20Authentication-0D4B5C?style=flat&logo=clerk&logoColor=white)  
-- ![NextAuth](https://img.shields.io/badge/-NextAuth-FF62F1?style=flat&logo=next-auth&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-- ![LangGraph](https://img.shields.io/badge/-LangGraph-5F6366?style=flat&logo=python&logoColor=white)  
-
-## 🚀 What I do:
-- Develop scalable and maintainable web applications using modern frontend and backend technologies.
-- Build RESTful APIs and integrate them with databases for data management.
-- Work with cloud services and implement authentication systems.
-- Automate deployment using Docker and CI/CD pipelines.
-
-## 📈 GitHub Stats:
-![Syed Shahmir Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshahmirsultan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
-
-## 🔥 GitHub Streak
-![Syed Shahmir Sultan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedshahmirsultan&theme=merko)
-
-## 🌱 I’m currently learning:
-- Improving my skills with Docker and Kubernetes.
-- Exploring advanced Next.js features and optimizations.
-- Deepening my understanding of FastAPI and Python.
-
-## 📣 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/syedshahmirsultan/)
-- [Twitter](https://twitter.com/syed_shahmir)
-- [Portfolio](https://syedshahmirsultan.com)
-
-## 📂 Latest Projects:
-- [Project 1](https://github.com/syedshahmirsultan/project1)
-- [Project 2](https://github.com/syedshahmirsultan/project2)
-- [Project 3](https://github.com/syedshahmirsultan/project3)
-
----
-
-### 🎨 Fun fact:
-I love playing with new tech and tools that help me be more productive in development. I'm always up for a challenge!
-
----
-
-### 💻 Here's an animation of my profile background!
-
-<details>
-  <summary>Click to see animation 🎬</summary>
-  ![Profile Animation](https://media.giphy.com/media/3og0IStFHK5ZbN1f7S/giphy.gif)
-</details>
-
----
-
-Thanks for stopping by! ✨
 
