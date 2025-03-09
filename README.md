@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsultan" /></a> </p>
 
-- 🌱 I’m currently learning **Agentic AI Development using LangGraph**
+- 🌱 I’m currently learning **Agentic AI Development**
 
-- 👯 I’m looking to collaborate on **Next.js and AI projects**
+  - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
 - 🤝 I’m looking for help with **Agentic AI Development**
 
-- 💬 Ask me about **Next.js,TypeScript ,Python**
+- 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI**
 
 - 📫 How to reach me **syedshahmirsultan@gmail.com**
 
