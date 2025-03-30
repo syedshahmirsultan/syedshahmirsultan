@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsultan" /></a> </p>
 
-- 🌱 I’m currently learning **Agentic AI Development**
+- 🌱 I’m currently learning **OpenAI Agents SDK**
 
   - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
