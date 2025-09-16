@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Agentic AI Development**
 
-- 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI,OpenAI Agents SDK**
+- 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI, OpenAI Agents SDK**
 
 - 📫 How to reach me **syedshahmirsultan@gmail.com**
 
