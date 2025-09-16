@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syed Shahmir Sultan</h1>
-<h3 align="center">Agentic AI  Developer</h3>
+<h3 align="center">Agentic AI  Developer || n8n AI Automation Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshahmirsultan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshahmirsultan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsultan" /></a> </p>
 
-- 🌱 I’m currently learning **OpenAI Agents SDK**
+- 🌱 I’m currently learning **Model Context Protocol (MCP)**
 
   - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
 - 🤝 I’m looking for help with **Agentic AI Development**
 
-- 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI**
+- 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI,OpenAI Agents SDK**
 
 - 📫 How to reach me **syedshahmirsultan@gmail.com**
 
