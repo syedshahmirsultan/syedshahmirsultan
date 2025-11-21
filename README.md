@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsu
                                     ltan" /></a> </p>
 
-- 🌱 I’m currently learning **Model Context Protocol (MCP)**
+- 🌱 I’m currently building **QuizzViz**
 
   - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
