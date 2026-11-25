@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Syed Shahmir Sultan</h1>
-<h3 align="center">Full-Stack Product Developer</h3>
+<h3 align="center">Full-Stack Product Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshahmirsultan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshahmirsultan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsu
                                     ltan" /></a> </p>
 
-- 🌱 I’m currently building **QuizzViz**
+- 🌱 I’m currently learning to **Build AI Workers**
 
-  - 👯 I’m looking to collaborate on **Agentic AI Projects**
-
-- 🤝 I’m looking for help with **Agentic AI Development**
-
+- 👯 I’m looking to collaborate on **Building Reliable AI Workers**
+- 
 - 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI, OpenAI Agents SDK**
 
 - 📫 How to reach me **syedshahmirsultan@gmail.com**
