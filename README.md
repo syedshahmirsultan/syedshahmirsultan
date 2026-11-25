@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning to **Build AI Workers**
 
 - 👯 I’m looking to collaborate on **Building Reliable AI Workers**
-- 
+
 - 💬 Ask me about **Next.js,TypeScript ,Python, FastAPI, OpenAI Agents SDK**
 
 - 📫 How to reach me **syedshahmirsultan@gmail.com**
